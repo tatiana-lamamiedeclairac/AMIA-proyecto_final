@@ -1,0 +1,7 @@
+; Parte 4: cuatro heridos y solo un botiquín (capacidad 3): no hay reparto válido.
+A*...X
+......
+HH.E.S
+*F....
+*.H..*
+..FF.H

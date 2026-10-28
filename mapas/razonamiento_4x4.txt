@@ -1,0 +1,5 @@
+; Parte 3: ejemplo de razonamiento del enunciado (4x4).
+A.F.
+...E
+S.F.
+V...

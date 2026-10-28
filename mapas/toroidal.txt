@@ -1,0 +1,9 @@
+; Parte 2a: templo TOROIDAL con tres perdidos.  Usadlo con --toroidal:
+;   python templo.py --modo busqueda --mapa toroidal --toroidal
+; Con paredes el plan óptimo cuesta 17; cruzando los bordes, 9.
+A.*.V.
+..F..*
+V...F.
+.F....
+...S.*
+.*..VE

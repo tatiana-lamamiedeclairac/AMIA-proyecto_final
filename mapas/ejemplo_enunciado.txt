@@ -1,0 +1,7 @@
+; Templo de ejemplo del enunciado (6x6, = semilla 5). Resoluble por lógica.
+A.*F..
+...*..
+......
+.F...*
+.F..V.
+..S.*E

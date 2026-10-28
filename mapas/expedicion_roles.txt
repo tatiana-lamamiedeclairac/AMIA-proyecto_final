@@ -1,0 +1,10 @@
+; Parte 4: la expedición (= generar_expedicion(7)).  H herido (solo indy, botiquín),
+; X atrapado bajo escombros (solo lara, pico), V cualquiera.  Capacidad 3.
+; Sin coordinación, indy se llena con los V de la izquierda y el herido de (6,6)
+; se queda en el templo.
+A*...X
+......
+VV.E.S
+*F....
+*.V..*
+..FF.H

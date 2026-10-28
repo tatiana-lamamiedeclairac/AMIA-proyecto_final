@@ -1,0 +1,7 @@
+; Parte 2b: ir directo a la salida acaba en las fauces de la serpiente (= semilla 0).
+A...*E
+*....*
+....S.
+V...F.
+.F....
+*..F..

@@ -1,0 +1,7 @@
+; Parte 2: el camino más corto en pasos NO es el más barato (escombros cuestan 3). (= semilla 7)
+A..V.S
+*.....
+F..*..
+...**F
+....F.
+.E....

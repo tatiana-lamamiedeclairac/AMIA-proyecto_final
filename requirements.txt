@@ -1,0 +1,8 @@
+# Motor y tests
+pytest>=7.4
+pytest-timeout>=2.1
+# Parte 3: razonamiento con Answer Set Programming
+clingo>=5.6
+# Sprites de la GUI (si no está, se usan gráficos simples)
+Pillow>=10.0
+# La GUI usa tkinter, incluido con Python (en Linux: sudo apt install python3-tk).
